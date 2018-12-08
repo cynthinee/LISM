@@ -1,2 +1,7 @@
-# LISM
-LIS Microaggressions
+# LIS Microaggressions
+LIS Microaggressions (LISM) is a community project that aims to document microaggressions expressed towards marginalized individuals and communities within the greater library, archives, and information fields. Inspired by recent grassroots social media movements, such as [The Microaggressions Project](http://www.microaggressions.com/), and [I, Too, Am Harvard](http://itooamharvard.tumblr.com/), this space aims to identify, acknowledge, and overcome the microaggressions that continue to exist in our profession and that are the real, lived, experiences of LIS professionals from marginalized communities today. In its current state, LISM includes the original [documentation site](http://lismicroaggressions.tumblr.com/), as well as a [zine publication](http://lismicroaggressions.tumblr.com/zines).
+>Racial, gender, sexual orientation, disability, class, and religious* microaggressions deliver hidden demeaning messages that often lie outside the level of conscious awareness of perpetrators. These hidden messages, however, have detrimental impact upon recipients through the contradictory metacommunications they convey. ([Sue, 2010](http://www.worldcat.org/oclc/798855672))
+
+(*Microaggressions can be expressed towards any marginalized identity.)
+## How to participate
+LISM was always intended to be a community space, and new editors are always welcome! The [LISM Wiki](https://github.com/cynthinee/LISM/wiki) details the workflows of both the documentation project on Tumblr and the zine series.
